@@ -32,6 +32,7 @@ Check out some of my projects!
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
 </p>
 
-### Work Experience / Contact Me
-<a href="https://www.linkedin.com/in/jeffreyzhang2001/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
- 
+### Connect with me
+
+[<img align="left" alt="jeffreyzhang.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg">](https://jeffreyzhang.me/)
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">](https://www.linkedin.com/in/jeffreyzhang2001/)
