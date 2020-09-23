@@ -8,12 +8,13 @@ If you'd like to know more, visit [jeffreyzhang.me](https://jeffreyzhang.me/).
 ## Projects
 Check out some of my projects!  
 
-### [<img src="https://twemoji.maxcdn.com/v/13.0.1/72x72/1f343.png" alt="" width="25px" height="25px">](https://mintlyapp.com) Mintly - [mintlyapp.com](https://mintlyapp.com)
+### [<img src="https://twemoji.maxcdn.com/v/13.0.1/72x72/1f343.png" alt="" width="25px" height="25px">](https://mintlyapp.com) Mintly - [mintlyapp.com](https://mintlyapp.com) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  width="30px" height="30px"/>](https://github.com/jeffreyzhang2001/mintly)
 ---
+
 - Mintly is a feature-rich paper trading platform complete with securities and options
 - Built (serverlessly) with React, Next.js and Firebase
 
-### [<img src="https://icongr.am/fontawesome/reddit.svg?size=128&color=currentColor" alt="" width="25px" height="25px">](https://redditsentiment.herokuapp.com/) RedditSentiment - [redditsentiment.herokuapp.com](https://redditsentiment.herokuapp.com/)
+### [<img src="https://icongr.am/fontawesome/reddit.svg?size=128&color=currentColor" alt="" width="25px" height="25px">](https://redditsentiment.herokuapp.com/) RedditSentiment - [redditsentiment.herokuapp.com](https://redditsentiment.herokuapp.com/) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  width="30px" height="30px"/>](https://github.com/jeffreyzhang2001/reddit-sentiment-analysis-dashboard)
 ---
 - RedditSentiment is a web app that analyzes any subreddit's top posts for its overarching sentiment
 - Built with Django, Google Cloud Vision and NLP, and Google Cloud Platform
