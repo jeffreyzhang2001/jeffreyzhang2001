@@ -1,7 +1,7 @@
 # [<img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>](https://jeffreyzhang.me/) Hey, I'm Jeffrey!
 Welcome to my page! I'm a second year Computer Science student at the University of Waterloo.  
 Currently at [OpsLevel](https://www.opslevel.com/) working on the core platform.  
-**I'm looking for Winter 2021 internships!**  
+**I'm looking for Fall 2021 internships!**  
 
 If you'd like to know more, visit [jeffreyzhang.me](https://jeffreyzhang.me/).
 
