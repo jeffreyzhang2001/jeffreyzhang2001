@@ -14,11 +14,6 @@ Check out some of my projects!
 - Mintly is a feature-rich paper trading platform complete with securities and options
 - Built (serverlessly) with React, Next.js and Firebase
 
-### [<img src="https://icongr.am/fontawesome/reddit.svg?size=128&color=currentColor" alt="" width="25px" height="25px">](https://redditsentiment.herokuapp.com/) RedditSentiment - [redditsentiment.herokuapp.com](https://redditsentiment.herokuapp.com/) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  width="30px" height="30px"/>](https://github.com/jeffreyzhang2001/reddit-sentiment-analysis-dashboard)
----
-- RedditSentiment is a web app that analyzes any subreddit's top posts for its overarching sentiment
-- Built with Django, Google Cloud Vision and NLP, and Google Cloud Platform
-
 ### Technologies I use
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
