@@ -6,7 +6,7 @@ Currently at [OpsLevel](https://www.opslevel.com/) working on the core platform.
 If you'd like to know more, visit [jeffreyzhang.me](https://jeffreyzhang.me/).
 
 ## Projects
-Check out some of my projects!  
+Check out my latest project! More are in the works :)  
 
 ### [<img src="https://twemoji.maxcdn.com/v/13.0.1/72x72/1f343.png" alt="" width="25px" height="25px">](https://mintlyapp.com) Mintly - [mintlyapp.com](https://mintlyapp.com) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  width="30px" height="30px"/>](https://github.com/jeffreyzhang2001/mintly)
 ---
