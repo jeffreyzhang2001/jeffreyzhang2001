@@ -8,11 +8,13 @@ If you'd like to know more, visit [jeffreyzhang.me](https://jeffreyzhang.me/).
 ## Projects
 Check out my latest project! More are in the works :)  
 
-### [<img src="https://twemoji.maxcdn.com/v/13.0.1/72x72/1f343.png" alt="" width="25px" height="25px">](https://mintlyapp.com) Mintly - [mintlyapp.com](https://mintlyapp.com) [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"  width="30px" height="30px"/>](https://github.com/jeffreyzhang2001/mintly)
+### [<img src="https://twemoji.maxcdn.com/v/13.0.1/72x72/1f343.png" alt="" width="25px" height="25px">](https://mintlyapp.com) Mintly - [mintlyapp.com](https://mintlyapp.com)
 ---
+Mintly is a feature-rich paper trading platform complete with securities and unlimited portfolio tracking.  
+Built serverlessly with React, Next.js and Firebase.  
+  
+https://github.com/jeffreyzhang2001/mintly
 
-- Mintly is a feature-rich paper trading platform complete with securities and options
-- Built (serverlessly) with React, Next.js and Firebase
 
 ### Technologies I use
 <p>
