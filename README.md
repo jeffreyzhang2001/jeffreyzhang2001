@@ -1,12 +1,11 @@
 # [<img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>](https://jeffreyzhang.me/) Hey, I'm Jeffrey!
 Welcome to my page! I'm a second year Computer Science student at the University of Waterloo.  
-Currently at [OpsLevel](https://www.opslevel.com/) working on the core platform.  
-**I'm looking for Fall 2021 internships!**  
+Currently at [Shopify](https://www.shopify.ca/) working on the Customer Data Platform.  
+**I'm looking for Summer 2022 internships!**  
 
 If you'd like to know more, visit [jeffreyzhang.me](https://jeffreyzhang.me/).
 
 ## Projects
-Check out my latest project! More are in the works :)  
 
 ### [<img src="https://twemoji.maxcdn.com/v/13.0.1/72x72/1f343.png" alt="" width="25px" height="25px">](https://mintlyapp.com) Mintly - [mintlyapp.com](https://mintlyapp.com)
 ---
