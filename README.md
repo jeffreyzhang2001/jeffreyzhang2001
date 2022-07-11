@@ -1,7 +1,7 @@
 # [<img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>](https://jeffreyzhang.me/) Hey, I'm Jeffrey!
 Welcome to my page! I'm a second year Computer Science student at the University of Waterloo.  
-Currently at [Shopify](https://www.shopify.ca/) working on the Customer Data Platform.  
-**I'm looking for Summer 2022 internships!**  
+Currently at [Lacework](https://www.lacework.com/) as an SWE intern working on Contextual Help.    
+**I'm looking for Summer 2023 internships!**  
 
 If you'd like to know more, visit [jeffreyzhang.me](https://jeffreyzhang.me/).
 
