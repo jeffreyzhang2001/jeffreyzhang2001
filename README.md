@@ -1,13 +1,13 @@
 # [<img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>](https://jeffreyzhang.me/) Hey, I'm Jeffrey!
 Welcome to my page! I'm a 4th year Computer Science student at the University of Waterloo.  
-Currently at [Lacework](https://www.lacework.com/) as an SWE intern working on Contextual Help.    
+Currently at [Instabase](https://instabase.com/) as an SWE intern.    
 **Looking for new grad opportunities :)**  
 
 If you'd like to know more, visit [jeffreyzhang.me](https://jeffreyzhang.me/).
 
 ## Projects
 
-### [<img src="https://twemoji.maxcdn.com/v/13.0.1/72x72/1f343.png" alt="" width="25px" height="25px">](https://mintlyapp.com) Mintly - [mintlyapp.com](https://mintlyapp.com)
+### [<img src="https://twemoji.maxcdn.com/v/13.0.1/72x72/1f343.png" alt="" width="25px" height="25px">](https://mintly.vercel.app/) Mintly - [mintly.vercel.app](https://mintly.vercel.app/)
 ---
 Mintly is a feature-rich paper trading platform complete with securities and unlimited portfolio tracking.  
 Built serverlessly with React, Next.js and Firebase.  
