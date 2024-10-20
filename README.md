@@ -1,21 +1,9 @@
 # [<img src="https://emojis.slackmojis.com/emojis/images/1593555389/9579/blob_excited.gif?1593555389" width="30"/>](https://jeffreyzhang.me/) Hey, I'm Jeffrey!
-Welcome to my page! I'm a 4th year Computer Science student at the University of Waterloo.  
-Currently at [Instabase](https://instabase.com/) as an SWE intern.    
-**Looking for new grad opportunities :)**  
+Welcome to my page! I'm a Software Engineer at [Stripe](https://stripe.com/).
 
 If you'd like to know more, visit [jeffreyzhang.me](https://jeffreyzhang.me/).
 
-## Projects
 
-### [<img src="https://twemoji.maxcdn.com/v/13.0.1/72x72/1f343.png" alt="" width="25px" height="25px">](https://mintly.vercel.app/) Mintly - [mintly.vercel.app](https://mintly.vercel.app/)
----
-Mintly is a feature-rich paper trading platform complete with securities and unlimited portfolio tracking.  
-Built serverlessly with React, Next.js and Firebase.  
-  
-https://github.com/jeffreyzhang2001/mintly
-
-
-### Technologies I use
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
